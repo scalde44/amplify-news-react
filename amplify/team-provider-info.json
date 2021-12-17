@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newsreact-staging-194325-authRole",
+      "UnauthRoleArn": "arn:aws:iam::061147567476:role/amplify-newsreact-staging-194325-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::061147567476:role/amplify-newsreact-staging-194325-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-newsreact-staging-194325-deployment",
+      "UnauthRoleName": "amplify-newsreact-staging-194325-unauthRole",
+      "StackName": "amplify-newsreact-staging-194325",
+      "StackId": "arn:aws:cloudformation:us-east-2:061147567476:stack/amplify-newsreact-staging-194325/6fb2d3b0-5ea8-11ec-94b5-069e6c6ac232",
+      "AmplifyAppId": "d2udv148xv3mtw"
+    }
+  }
+}
